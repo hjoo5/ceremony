@@ -39,3 +39,6 @@
 - - -
 ## SCHEMA
 <img width="800" src="https://user-images.githubusercontent.com/22341320/46417535-d9d3e600-c764-11e8-94a5-2c4719dc06f3.png">
+
+- - -
+현주: https://github.com/hjoo5/TIL
