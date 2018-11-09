@@ -40,7 +40,7 @@
 
 - - -
 ## SCHEMA
-<img width="800" src="https://github.com/hjoo5/ceremony/files/2564199/default.pdf">
+<img width="800" src="https://user-images.githubusercontent.com/43309902/48236449-9163b400-e405-11e8-9974-1774369c5e6a.png">
 
 
 
