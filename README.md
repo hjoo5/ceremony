@@ -2,7 +2,7 @@
 
   ## USER
   <br>
-  <img width="400" src="https://user-images.githubusercontent.com/22341320/46417173-09362300-c764-11e8-9095-ebc7ac0beea2.jpeg">
+  <img width="400" src="https://user-images.githubusercontent.com/43309902/48235359-f5d04480-e400-11e8-8b1c-7b481e10738a.png">
   <br>
   
   ## OWNER
