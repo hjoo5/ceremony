@@ -11,7 +11,10 @@ default: &default
 
 development:
   <<: *default
-  database: db/development.sqlite3
+  url: jdbc:mysql://localhost:3306
+  database: ceremony
+  username: <%= ENV.db_username %>
+  password: <%= ENV.db_password %>
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
